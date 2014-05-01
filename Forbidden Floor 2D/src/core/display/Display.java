@@ -1,4 +1,4 @@
-package main.gui;
+package core.display;
 
 public class Display {
 
